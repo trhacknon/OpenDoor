@@ -53,7 +53,10 @@ Software is written for informational purposes and is open source product under 
 ```
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 ```
-
+#### Install one line
+```
+git clone https://github.com/trhacknon/OpenDoor.git && cd OpenDoor/ && chmod +x setup.py && python3 setup.py build && python3 setup.py install && opendoor --help
+```
 #### Local installation and run
 ```
  git clone https://github.com/trhacknon/OpenDoor.git
