@@ -73,7 +73,7 @@ Local installation and run
 
 ::
 
-     git clone https://github.com/stanislav-web/OpenDoor.git
+     git clone https://github.com/trhacknon/OpenDoor.git
      cd OpenDoor/
      pip3 install -r requirements.txt
      chmod +x opendoor.py
@@ -85,7 +85,7 @@ Global installation (Preferably for OS distributions)
 
 ::
 
-     git clone https://github.com/stanislav-web/OpenDoor.git
+     git clone https://github.com/trhacknon/OpenDoor.git
      cd OpenDoor/
      python3 setup.py build && python3 setup.py install
 
@@ -109,10 +109,10 @@ v4.0.1-beta (23.02.2021)
 
     -   Python 2.6,2.7 is unsupported
     -   Update directories.dat  36994 -> 37019
-    -   [enhancement] [#PR-40](https://github.com/stanislav-web/OpenDoor/issues/40) added encoding to setup.py
-    -   [bugfix] [#PR-48](https://github.com/stanislav-web/OpenDoor/issues/48) Python 3.9 / 3.10 compatibility
-    -   [bugfix] [#PR-20](https://github.com/stanislav-web/OpenDoor/issues/20) No timeout setup in request
-    -   [enhancement] [#PR-36](https://github.com/stanislav-web/OpenDoor/issues/36) Feature Request: Show only found items
+    -   [enhancement] [#PR-40](https://github.com/trhacknon/OpenDoor/issues/40) added encoding to setup.py
+    -   [bugfix] [#PR-48](https://github.com/trhacknon/OpenDoor/issues/48) Python 3.9 / 3.10 compatibility
+    -   [bugfix] [#PR-20](https://github.com/trhacknon/OpenDoor/issues/20) No timeout setup in request
+    -   [enhancement] [#PR-36](https://github.com/trhacknon/OpenDoor/issues/36) Feature Request: Show only found items
 
 v3.4.481-stable (02.10.2017)
 ----------------------------
@@ -217,7 +217,7 @@ Help
 Maintainers
 ^^^^^^^^^^^
 
--  @stanislav-web https://github.com/stanislav-web (Developer)
+-  @stanislav-web https://github.com/trhacknon (Developer)
 
 Tests
 ~~~~~
@@ -240,16 +240,16 @@ Documentation
 ~~~~~~~~~~~~~
 
 -  `Opendoor OWASP
-   CookBook <https://github.com/stanislav-web/OpenDoor/wiki>`__
--  `Issues <https://github.com/stanislav-web/OpenDoor/issues>`__
+   CookBook <https://github.com/trhacknon/OpenDoor/wiki>`__
+-  `Issues <https://github.com/trhacknon/OpenDoor/issues>`__
 
-.. |Twitter| image:: https://img.shields.io/twitter/url/https/github.com/stanislav-web/OpenDoor.svg?style=social
-   :target: https://twitter.com/intent/tweet?text=Wow:&url=https://github.com/stanislav-web/OpenDoor
-.. |Build Status| image:: https://travis-ci.org/stanislav-web/OpenDoor.svg?branch=master
+.. |Twitter| image:: https://img.shields.io/twitter/url/https/github.com/trhacknon/OpenDoor.svg?style=social
+   :target: https://twitter.com/intent/tweet?text=Wow:&url=https://github.com/trhacknon/OpenDoor
+.. |Build Status| image:: https://travis-ci.org/trhacknon/OpenDoor.svg?branch=master
    :target: https://travis-ci.org/stanislav-web/OpenDoor
-.. |Issues| image:: https://badge.waffle.io/stanislav-web/OpenDoor.png?label=Ready
-   :target: https://waffle.io/stanislav-web/OpenDoor
+.. |Issues| image:: https://badge.waffle.io/trhacknon/OpenDoor.png?label=Ready
+   :target: https://waffle.io/trhacknon/OpenDoor
 .. |License: GPL v3| image:: https://img.shields.io/badge/License-GPL%20v3-blue.svg
    :target: http://www.gnu.org/licenses/gpl-3.0
 .. |Say Thanks!| image:: https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg
-   :target: https://saythanks.io/to/stanislav-web
+   :target: https://saythanks.io/to/trhacknon
