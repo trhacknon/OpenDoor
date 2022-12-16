@@ -19,8 +19,8 @@
 CoreConfig = {
     'info': {
         'name': 'Opendoor scanner',
-        'repository': 'git@github.com:stanislav-web/OpenDoor.git',
-        'remote_version': 'https://raw.githubusercontent.com/stanislav-web/OpenDoor/master/VERSION',
+        'repository': 'git@github.com:trhacknon/OpenDoor.git',
+        'remote_version': 'https://raw.githubusercontent.com/trhacknon/OpenDoor/master/VERSION',
         'license': 'License: GNU General Public License',
         'version': '4.0.1-beta',
         'documentation': 'https://opendoor.readthedocs.org',
@@ -78,7 +78,7 @@ CoreConfig = {
 #  (  _  )(  _ \( ___)( \( )  (  _ \ (  _  )(  _  )(  _ \  #
 #   )(_)(  )___/ )__)  )  (    )(_) ) )(_)(  )(_)(  )   /  #
 #  (_____)(__)  (____)(_)\_)  (____/ (_____)(_____)(_)\_)  #
-#                                                          #
+#                            mod by trhacknon              #
 #  {0}\t\t                           #
 #  {1}\t\t                           #
 #  {2}\t\t\t                   #
