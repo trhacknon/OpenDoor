@@ -32,12 +32,12 @@ setup(name='opendoor',
       description='OWASP WEB Directory Scanner', long_description=LONG_DESCRIPTION,
 
       # The project's main homepage.
-      url='https://github.com/stanislav-web/OpenDoor',
+      url='https://github.com/trhacknon/OpenDoor',
 
       # Author details
-      author='Brain Storm Team',
-      author_email='stanisov@gmail.com',
-      maintainer='Brain Storm Team',
+      author='trhacknon Team',
+      author_email='jeremydiliotti@gmail.com',
+      maintainer='trhacknon Team',
 
       # You can just specify the packages manually here if your project is
       # simple. Or you can use find_packages().
@@ -69,7 +69,7 @@ setup(name='opendoor',
           'dir search'
       ],
 
-      download_url='https://github.com/stanislav-web/OpenDoor',
+      download_url='https://github.com/trhacknon/OpenDoor',
 
       # To provide executable scripts, use entry points in preference to the
       # "scripts" keyword. Entry points provide cross-platform support and allow
