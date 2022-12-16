@@ -1,10 +1,10 @@
-OWASP WEB Directory Scanner [![Twitter](https://img.shields.io/twitter/url/https/github.com/stanislav-web/OpenDoor.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https://github.com/stanislav-web/OpenDoor)
+OWASP WEB Directory Scanner [![Twitter](https://img.shields.io/twitter/url/https/github.com/trhacknon/OpenDoor.svg?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https://github.com/trhacknon/OpenDoor)
 ===============================================================================================================================================================================================================================
 
 |Python | Linux | OSX |
 |---	|---	|---|
-|3.9   	| [![Build Status](https://travis-ci.org/stanislav-web/OpenDoor.svg?branch=master)](https://travis-ci.org/stanislav-web/OpenDoor)|[![Build Status](https://travis-ci.org/stanislav-web/OpenDoor.svg?branch=master)](https://travis-ci.org/stanislav-web/OpenDoor)   	|
-|3.10   	| [![Build Status](https://travis-ci.org/stanislav-web/OpenDoor.svg?branch=master)](https://travis-ci.org/stanislav-web/OpenDoor)|[![Build Status](https://travis-ci.org/stanislav-web/OpenDoor.svg?branch=master)](https://travis-ci.org/stanislav-web/OpenDoor)   	|
+|3.9   	| [![Build Status](https://travis-ci.org/trhacknon/OpenDoor.svg?branch=master)](https://travis-ci.org/trhacknon/OpenDoor)|[![Build Status](https://travis-ci.org/trhacknon/OpenDoor.svg?branch=master)](https://travis-ci.org/trhacknon/OpenDoor)   	|
+|3.10   	| [![Build Status](https://travis-ci.org/trhacknon/OpenDoor.svg?branch=master)](https://travis-ci.org/trhacknon/OpenDoor)|[![Build Status](https://travis-ci.org/trhacknon/OpenDoor.svg?branch=master)](https://travis-ci.org/trhacknon/OpenDoor)   	|
 
 **OpenDoor OWASP** is console multifunctional web sites scanner.
 This application find all possible ways to login, index of/ directories, web shells, restricted access points, subdomains, hidden data and large backups.
@@ -56,7 +56,7 @@ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 
 #### Local installation and run
 ```
- git clone https://github.com/stanislav-web/OpenDoor.git
+ git clone https://github.com/trhacknon/OpenDoor.git
  cd OpenDoor/
  pip3 install -r requirements.txt
  chmod +x opendoor.py
@@ -86,10 +86,10 @@ v4.0.1-beta (23.02.2021)
 ---------------------------
     -   Python 2.6,2.7 is unsupported
     -   Update directories.dat  36994 -> 37019
-    -   [enhancement] [#PR-40](https://github.com/stanislav-web/OpenDoor/issues/40) added encoding to setup.py 
-    -   [bugfix] [#PR-48](https://github.com/stanislav-web/OpenDoor/issues/48) Python 3.9 / 3.10 compatibility
-    -   [bugfix] [#PR-20](https://github.com/stanislav-web/OpenDoor/issues/20) No timeout setup in request
-    -   [enhancement] [#PR-36](https://github.com/stanislav-web/OpenDoor/issues/36) Feature Request: Show only found items
+    -   [enhancement] [#PR-40](https://github.com/trhacknon/OpenDoor/issues/40) added encoding to setup.py 
+    -   [bugfix] [#PR-48](https://github.com/trhacknon/OpenDoor/issues/48) Python 3.9 / 3.10 compatibility
+    -   [bugfix] [#PR-20](https://github.com/trhacknon/OpenDoor/issues/20) No timeout setup in request
+    -   [enhancement] [#PR-36](https://github.com/trhacknon/OpenDoor/issues/36) Feature Request: Show only found items
 
 v3.4.481-stable (02.10.2017)
 ---------------------------
@@ -196,7 +196,7 @@ python setup.py test
 If  you like to contribute to the development of the project in that case pull requests are open for you.
 Also, you can suggest an ideas and create a task in my track list
 
-[![Issues](https://badge.waffle.io/stanislav-web/OpenDoor.png?label=Ready)](https://waffle.io/trhacknon/OpenDoor) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)  [![Say Thanks!](https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg)](https://saythanks.io/to/trhacknon)
+[![Issues](https://badge.waffle.io/trhacknon/OpenDoor.png?label=Ready)](https://waffle.io/trhacknon/OpenDoor) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)  [![Say Thanks!](https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg)](https://saythanks.io/to/trhacknon)
 
 ### Documentation
 - [Opendoor OWASP CookBook ](https://github.com/trhacknon/OpenDoor/wiki)
