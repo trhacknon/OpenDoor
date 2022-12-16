@@ -66,7 +66,7 @@ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 
 #### Global installation (Preferably for OS distributions)
 ```
- git clone https://github.com/stanislav-web/OpenDoor.git
+ git clone https://github.com/trhacknon/OpenDoor.git
  cd OpenDoor/
  python3 setup.py build && python3 setup.py install
 
@@ -184,7 +184,7 @@ Wordlist tools:
 ```
 
 #### Maintainers
-- @stanislav-web <https://github.com/stanislav-web> (Developer)
+- @trhacknon <https://github.com/trhacknon> (Developer)
 
 ### Tests
 ```
@@ -196,9 +196,9 @@ python setup.py test
 If  you like to contribute to the development of the project in that case pull requests are open for you.
 Also, you can suggest an ideas and create a task in my track list
 
-[![Issues](https://badge.waffle.io/stanislav-web/OpenDoor.png?label=Ready)](https://waffle.io/stanislav-web/OpenDoor) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)  [![Say Thanks!](https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg)](https://saythanks.io/to/stanislav-web)
+[![Issues](https://badge.waffle.io/stanislav-web/OpenDoor.png?label=Ready)](https://waffle.io/trhacknon/OpenDoor) [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)  [![Say Thanks!](https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg)](https://saythanks.io/to/trhacknon)
 
 ### Documentation
-- [Opendoor OWASP CookBook ](https://github.com/stanislav-web/OpenDoor/wiki)
-- [Issues](https://github.com/stanislav-web/OpenDoor/issues)
+- [Opendoor OWASP CookBook ](https://github.com/trhacknon/OpenDoor/wiki)
+- [Issues](https://github.com/trhacknon/OpenDoor/issues)
 
